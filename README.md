@@ -40,4 +40,5 @@ git clone
 Check `packages.json` for details
 
 <br/>
+for run the project run the command "npm run start"
 Thank You ☺
